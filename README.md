@@ -1,5 +1,4 @@
-# Rootstock-Ecosytem-Directory
-Verified tokens, trusted dApps, and scam alerts in the Rootstock Ecosystem
+
 
 # 🧭 Rootstock Ecosystem Directory: Verified Tokens, DApps & Scam Alerts
 _A trusted hub for everything real — and risky — in the Rootstock blockchain ecosystem._
