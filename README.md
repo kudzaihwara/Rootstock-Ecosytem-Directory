@@ -1,108 +1,121 @@
 # Rootstock-Ecosytem-Directory
 Verified tokens, trusted dApps, and scam alerts in the Rootstock Ecosystem
 
-# 🧭 Rootstock Ecosystem Directory: Verified Tokens, DApps & Scam Alerts  
-*A trusted hub for everything real — and risky — in the Rootstock blockchain ecosystem.*
+# 🧭 Rootstock Ecosystem Directory: Verified Tokens, DApps & Scam Alerts
+_A trusted hub for everything real — and risky — in the Rootstock blockchain ecosystem._
 
 ---
 
-## 📌 Introduction  
-Welcome to the first-ever **Rootstock Ecosystem Directory** — a living guide to verified tokens, trusted DApps, key tools, and known scam alerts in the Rootstock (RSK) community.
-
-Rootstock merges Bitcoin’s security with Ethereum-compatible smart contracts. But with growth comes risk — fake tokens, dead apps, and shady clones are emerging.  
-**This guide helps you navigate that.** 📚
+## 📌 Introduction
+Rootstock (RSK) combines the power of smart contracts with the security of Bitcoin. But as the ecosystem grows, so do risks — from fake tokens to dead DApps.  
+This Rootstock Ecosystem Directory helps users, devs, and investors separate the legit from the sketchy.
 
 ---
 
-## 🔥 Featured Project of the Week  
-
-- **💼 Project:** *Name*  
-- **📍 Type:** e.g., DeFi, Wallet, Bridge  
-- **✅ Status:** Live / Beta / Inactive  
-- **🔗 Link:** [projectwebsite.com](https://projectwebsite.com)  
-- **🧠 Why It Matters:** One-liner summary of its significance or uniqueness.
-
----
-
-## 💰 Verified Rootstock Tokens  
-
-| Token    | Symbol | Verified? | Contract     | Audit      | Risk       |
-|----------|--------|-----------|--------------|------------|------------|
-| DOC      | DOC    | ✅ Yes    | 0x123...     | ✅ IOVLabs | Low        |
-| SOV      | SOV    | ✅ Yes    | 0x456...     | ✅ Certik  | Low        |
-| FakeUSD  | FUSD   | ❌ No     | 0xFAKE...    | ❌ None    | ⚠️ Scam Risk |
-
-> ✅ All verified tokens are cross-checked with [explorer.rsk.co](https://explorer.rsk.co) and official sources.
+## 🔥 Featured Project of the Week
+**💼 Project:** Sovryn  
+**📍 Type:** Decentralized Finance (DeFi)  
+**✅ Status:** Live & audited  
+**🔗 Contract:** `0xefc78fc7d48b64958315949279ba181c2114abbd`  
+**🧠 Why It Matters:** Sovryn is the most established DeFi protocol on Rootstock. Trade, lend, and earn — all on Bitcoin rails.
 
 ---
 
-## 🧩 DApps & Protocols  
+## 💰 Verified Rootstock Tokens
 
-| Name             | Type         | Status     | Link                        | Notes                            |
-|------------------|--------------|------------|-----------------------------|----------------------------------|
-| Sovryn           | DeFi         | ✅ Live    | [sovryn.com](https://sovryn.com)             | Decentralized trading and lending |
-| Money on Chain   | Stablecoins  | ✅ Live    | [moneyonchain.com](https://moneyonchain.com) | BTC-backed DOC stablecoin         |
-| RSKSwap          | AMM          | ❌ Inactive| N/A                         | Last active in 2023              |
+| Token          | Symbol | Verified? | Contract Address                               | Audit           | Risk    |
+| -------------- | ------ | --------- | ---------------------------------------------- | --------------- | ------- |
+| Sovryn Token   | SOV    | ✅ Yes    | `0xefc78fc7d48b64958315949279ba181c2114abbd` | ✅ Certik       | Low     |
+| Dollar on Chain| DOC    | ✅ Yes    | `0x36f61d65d03c1b1c7580f201cbf4432cd06ac6f2` | ✅ IOVLabs      | Low     |
+| RIF Token      | RIF    | ✅ Yes    | `0x2acc95758f8b5f583470ba265eb685a8f45fc9d5` | ✅ External Audit| Low     |
+| BTCPlusX100    | BXP    | ❌ No     | `0x4f50c43a3a28a7c9fa10933f055e2fdc7d42e8c6` | ❌ None         | ⚠️ Scam |
 
----
-
-## 🛠️ Tools & Infrastructure  
-
-| Tool               | Purpose                  | Link                                       |
-|--------------------|--------------------------|--------------------------------------------|
-| Rootstock Explorer | Contract + Tx Tracker    | [explorer.rsk.co](https://explorer.rsk.co) |
-| RSK Docs           | Developer Resources      | [developers.rsk.co](https://developers.rsk.co) |
-| Token Checker (Soon) | Scam Filter Tool       | 🔨 Built by me – launching soon!            |
+✅ Use [explorer.rsk.co](https://explorer.rsk.co) to verify all Rootstock contracts.
 
 ---
 
-## ⚠️ Scam Alerts & Warnings  
+## 🧩 DApps & Protocols
 
-### 🚨 Token Warning: BTCPlusV2  
-- **Contract:** `0xDeadBeef...`  
-- **Red Flags:** No audit, fake branding, phishing links  
-- **Reported:** June 2025  
+| Name           | Type       | Status         | Link                | Notes                               |
+| -------------- | ---------- | -------------- | ------------------- | ---------------------------------- |
+| Sovryn         | DeFi       | ✅ Live        | [sovryn.com](https://sovryn.com) | Lend, borrow, and margin trade BTC |
+| Money on Chain | Stablecoins| ✅ Live        | [moneyonchain.com](https://moneyonchain.com) | Uses BTC as collateral for DOC stablecoins |
+| Tropykus Finance | Lending  | ✅ Live        | [tropykus.com](https://tropykus.com) | Latin America-focused micro lending platform |
+| RSKSwap        | AMM / DEX  | ⚠️ Abandoned   | N/A                 | Forked Uniswap, inactive since 2023 |
+
+---
+
+## 🛠️ Tools & Infrastructure
+
+| Tool                | Purpose            | Link                    |
+| ------------------- | ------------------ | ----------------------- |
+| Rootstock Explorer  | Check tokens, txs, contracts | [explorer.rsk.co](https://explorer.rsk.co) |
+| Rootstock Docs      | Developer guides   | [developers.rsk.co](https://developers.rsk.co) |
+| Sovryn Wiki         | Community knowledge base | [wiki.sovryn.com](https://wiki.sovryn.com) |
+| My Token Checker (Coming Soon) | Scam Filter | 🚧 In Development       |
+
+---
+
+## ⚠️ Scam Alerts & Warnings
+
+### 🚨 Token Warning: BTC-RSK-X100
+- **Contract:** `0x4f50c43a3a28a7c9fa10933f055e2fdc7d42e8c6`  
+- **Red Flags:** No audit, fake Sovryn affiliation, inactive Telegram  
+- **Reported:** May 2025  
 - **Risk Level:** 🔴 High  
-- **Advice:** Do not interact — clone of a legit protocol  
+- **Advice:** Do not interact or import into wallet
+
+### 🚨 DApp Warning: RSKRichFast.io
+- Phishing site targeting RSK wallets  
+- Claims to offer 500% return for staking  
+- No verified contract, uses cloaked URLs  
+- Reported multiple times in Rootstock Discord  
 
 ---
 
-## 🧪 How to Verify a Token or DApp Yourself  
+## ✅ How to Verify a Rootstock Token or Project
 
-Use this quick checklist:  
-- 🔎 Search contract on [explorer.rsk.co](https://explorer.rsk.co)  
-- 📖 Check if source code is verified  
-- 🧑‍💻 Look for GitHub, Twitter, Telegram activity  
-- 📜 Audit status or Rootstock mentions?  
-- ⚠️ Avoid random airdrops or sketchy token names  
+Use this 5-step checklist:  
+1. 🔍 Search the contract on [explorer.rsk.co](https://explorer.rsk.co)  
+2. ✅ Check if it’s Verified – look for a green checkmark and source code  
+3. 🔗 Review official links – website, X, Github, Docs (Check if they are live and active)  
+4. 📜 Look for an audit (Certik, IOVLabs) or security disclosure  
+5. 🚩 Watch out for lookalike tokens or copycat projects  
+6. 🧠 Check Rootstock mentions — is it in the official docs, Discord, or Hacktivator updates?
 
----
-
-## 📬 Submit Projects or Report Scams  
-
-Know a Rootstock gem or caught a scam early?  
-- 📝 Submit a form: [yourformlink.com](https://yourformlink.com)  
-- 📫 DM me on Twitter: [@YourHandle](https://twitter.com/YourHandle)  
-- 🔔 Join the Rootstock Discord & share findings  
+⚠️ **Bonus tip:** Avoid random airdrops, projects with zero holders, or clone names like "SovrynX100".
 
 ---
 
-## 🙌 Why This Matters  
+## 📬 Submit a Project or Report a Scam
 
-I built this directory as part of the **Rootstock Hacktivator Program** — to help protect the community and spotlight real innovation.  
-This isn't just a blog — it’s a tool.  
-✅ No coding.  
-✅ No fluff.  
-✅ Just truth, trust, and transparency.
+Found a new Rootstock token, DApp, or suspicious project? Help grow and protect the ecosystem.
+
+- 📫 DM me on Twitter → [@Kudzai13143194](https://twitter.com/Kudzai13143194)  
+- 💬 Join the Rootstock Discord → [https://discord.gg/rootstock](https://discord.gg/rootstock)  
+  Post in `#ecosystem` or `#scam-reports`
 
 ---
 
-## 💡 Stay Updated  
+## 🙌 About This Project
 
-This directory is updated weekly.  
-📌 Bookmark it, share it, and check back for new tokens, tools, and threats.  
-🔗 Follow me for updates  
-💬 Comment below with tips or ideas  
-🫱 Let’s grow the Rootstock ecosystem — safely
+This guide is part of my contribution to the Rootstock Hacktivator Program — focused on ecosystem growth, education, and safety.  
+I’m building a real-time, community-verified directory to make it easier to build and stay safe on Rootstock.  
+- No code needed  
+- No gatekeeping  
+- Just clarity and collaboration
+
+---
+
+## 🔁 Updates & Future Plans
+
+This directory is updated weekly with:  
+- New legit tokens & platforms  
+- Flagged scams  
+- Ecosystem growth updates
+
+📌 Bookmark this page  
+🔁 Share it with your friends  
+📢 DM me if you want to help grow it!
 
 ---
