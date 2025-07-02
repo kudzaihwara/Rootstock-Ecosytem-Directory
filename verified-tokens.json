@@ -1,0 +1,18 @@
+[
+  {
+    "name": "RSK Bitcoin Token",
+    "symbol": "RBTC",
+    "contractAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "website": "https://rsk.co",
+    "audit": null,
+    "status": "Verified"
+  },
+  {
+    "name": "SOV Token (Sovryn)",
+    "symbol": "SOV",
+    "contractAddress": "0xefc78fc7d48b64958315949279ba181c2114abbd",
+    "website": "https://sovryn.app",
+    "audit": "https://github.com/sovryntech/sovryn-smart-contracts",
+    "status": "Verified"
+  }
+]
